@@ -9,9 +9,9 @@ using std::string;
 
 int main() {
     system("chcp 1251 > nul");
-    cout << "Ââåäèòå ñëîâî:\n";
+    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐ»Ð¾Ð²Ð¾:\n";
     string s{""};
     cin >> s;
-    cout << "Âû ââåëè:\n";
+    cout << "Ð’Ñ‹ Ð²Ð²ÐµÐ»Ð¸:\n";
     cout << s << "\n";
 }
